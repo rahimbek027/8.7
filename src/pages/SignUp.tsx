@@ -109,7 +109,7 @@ const SignUp: React.FC = () => {
           id="phone_number"
           name="phone_number"
           type="text"
-          placeholder="+998 xx xxx xx xx"
+          placeholder="+998 91 234 56 78"
           icon={<FiPhone className="absolute left-3 top-3 text-gray-500" />}
           required
           pattern="^\+998 \d{2} \d{3} \d{2} \d{2}$"
